@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.prunning.owner.prunning">
+
+    <application
+        android:name="com.activeandroid.app.Application"
+        android:allowBackup="true"
+        android:icon="@drawable/icon_app"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="AA_DB_NAME"
+            android:value="yotei.db" />
+        <meta-data
+            android:name="AA_DB_VERSION"
+            android:value="1" />
+
+        <activity android:name="com.prunning.owner.prunning.MainActivity">
+
+        </activity>
+        <activity android:name="com.prunning.owner.prunning.EnterActivity" />
+        <activity android:name="com.prunning.owner.prunning.DisplayActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        >
+        <activity android:name="com.prunning.owner.prunning.SetteiActivity" />
+        <activity android:name="com.prunning.owner.prunning.TestDateActivity" />
+        <activity android:name="com.prunning.owner.prunning.TuuthiTimeSettingActivity" />
+        <activity android:name="com.prunning.owner.prunning.NaiyouListActivity"></activity>
+    </application>
+
+</manifest>

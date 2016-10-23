@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/owner/Downloads/Prunning2-master-3/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/owner/Downloads/Prunning2-master-3/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.1.1_b37ad3c3def942c68f1b080590bf902de5d2d2c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/owner/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/owner/Downloads/Prunning2-master-3/app/build/intermediates/pre-dexed/release/support-annotations-23.1.1_37c70392d60f4f04fd368eb948aef4bde486a00f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/owner/Downloads/Prunning2-master-3/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/owner/Downloads/Prunning2-master-3/app/build/intermediates/pre-dexed/release/internal_impl-23.1.1_23f4adbd1dafc6b10244415aef19adb82bbfd5bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/owner/Downloads/Prunning2-master-3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/owner/Downloads/Prunning2-master-3/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.1.1_4086c3db8c89c551a557547d4d009cbc5cf1e1c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/owner/.gradle/caches/modules-2/files-2.1/com.michaelpardo/activeandroid/3.1.0-SNAPSHOT/4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08/activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="/Users/owner/Downloads/Prunning2-master-3/app/build/intermediates/pre-dexed/release/activeandroid-3.1.0-SNAPSHOT_c3481aff6ced1ad6400af7f6b37121057a794286.jar" />
+    </item>
+
+</items>

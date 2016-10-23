@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Keikaku</string>
+
+    <!--subject name-->
+    <string name="math_title">数学</string>
+
+    <!--ナビゲゲーションドロワー-->
+    <string name="navigation_drawer_open">navigationdrawer_open</string>
+    <string name="navigation_drawer_close">navigationdrawer_close</string>
+
+
+</resources>
